@@ -59,7 +59,7 @@ Stories known also as items are defined by their unique IDs which are required. 
 
 **Sample request**
 
-    curl -X GET https://hacker-news.firebaseio.com/v0/item/24189341 \
+    curl -X GET https://hacker-news.firebaseio.com/v0/item/24189341 
 
 **Sample response**
 
